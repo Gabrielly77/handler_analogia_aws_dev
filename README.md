@@ -3,6 +3,10 @@
 🎭 Analogia do Handler — Pizzaria AWS 🍕
 Imagina que você tá numa pizzaria.
 
+
+![image](https://github.com/user-attachments/assets/882d5381-5b87-488c-a054-d9df9e255a4a)
+
+
 📞 Quando você liga pra pizzaria (evento), você quer pedir uma pizza específica.
 
 🍕 A pizzaria tem vários setores: tem o setor de pizza, bebidas, sobremesas, etc.
